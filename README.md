@@ -1,2 +1,2 @@
 # branch-web-sdk-depreciated
-Depreciated Bower name
+Branch bower package has moved to branch-sdk
